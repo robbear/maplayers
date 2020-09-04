@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Trousdale</name>
+	<open>1</open>
+	<gx:CascadingStyle kml:id="__managed_style_013B2E7FDE15853CC718">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>18</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_1EEBCE6F3015853CC717">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_0A435B08621585352535">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa21f7b</color>
+				<width>18</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_1E3B261FFA1585352534">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffa21f7b</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_036228F2D315853CC717">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>16</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed0">
+		<LineStyle>
+			<color>ffff00aa</color>
+			<width>16</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed1">
+		<LineStyle>
+			<color>ff0831ff</color>
+			<width>16</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="__managed_style_091430D77F1585352534">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed2">
+		<LineStyle>
+			<color>ff0831ff</color>
+			<width>16</width>
+		</LineStyle>
+	</Style>
+	<Placemark id="00394D65CC158534B212">
+		<name>Trousdale line</name>
+		<LookAt>
+			<longitude>-122.382449438564</longitude>
+			<latitude>37.59284251987178</latitude>
+			<altitude>25.36036725745662</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1208.120777828299</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30.00009681706521</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_091430D77F1585352534</styleUrl>
+		<LineString>
+			<coordinates>
+				-122.4030382931937,37.58103342004238,178.3704547138389 -122.4015640877303,37.58132514509432,167.1461418236393 -122.4003270998828,37.58156554874517,153.4519783869111 -122.3997025501106,37.58158013732223,149.5473853304935 -122.3989869600191,37.58158915242976,142.8086206695806 -122.3972494102109,37.58186843177648,127.183445058832 -122.3959939425285,37.58226717088914,115.2766095101656 -122.3943332621395,37.58304779670931,98.70297507042022 -122.3933229982579,37.58381387541094,85.94584807658791 -122.3916147016854,37.58480997668531,67.99323808473726 -122.3906140281841,37.58536561871161,58.26989278010861 -122.3900591234174,37.58604005689619,50.51208139358737 -122.3898811015237,37.58661381565358,45.33971635759627 -122.3898394021851,37.58706567141851,42.46380792730005 -122.3897076423954,37.58760329512086,37.98731638598813 -122.3882937212464,37.59046480144028,21.86851315089643 -122.3878869207648,37.59089041102497,20.14739036085198 -122.3873864209135,37.59119520063395,18.73041297018429 -122.386598489689,37.5915233484825,16.5632419346543 -122.3862072629221,37.59181324929476,14.97202547239452 -122.3833246856322,37.59443924694537,6.892775994766551 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="03F0A70D6415853C8D08">
+		<name>Route to Dave</name>
+		<LookAt>
+			<longitude>-122.3848197427923</longitude>
+			<latitude>37.58787522385555</latitude>
+			<altitude>32.54495430957972</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>665.2487413167546</range>
+			<altitudeMode>absolute</altitudeMode>
+			<gx:fovy>30.00009681706521</gx:fovy>
+		</LookAt>
+		<styleUrl>#__managed_style_036228F2D315853CC717</styleUrl>
+		<LineString>
+			<coordinates>
+				-122.3884624701063,37.59011569455766,23.64701075414256 -122.3844724471514,37.58798503552288,25.10677862054329 -122.3852738648609,37.58725767072958,28.9785661263102 -122.385397130001,37.58708673307287,28.84536330985117 -122.3854507925994,37.58674550547448,29.08355262893889 -122.3856200593475,37.5866998248584,29.1165695436214 -122.3858273117232,37.58668824208635,29.46346709449146 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
